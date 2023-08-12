@@ -20,5 +20,4 @@ const store = configureStore({
 });
 
 export default store;
-export const server =
-  'https://coursebundler-mfru7oue1-ankul07.vercel.app/api/v1';
+export const server = 'https://coursebundler-nine-teal.vercel.app/api/v1';
